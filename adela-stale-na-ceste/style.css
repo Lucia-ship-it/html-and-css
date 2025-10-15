@@ -9,11 +9,23 @@ body {
 font-family: 'Playfair Display', serif;
 */
 
-h1{
+h1 {
     font-size: 80px;
     color: red; 
 }
 
-h2{
+h2 {
     background-color: aquamarine;
+}
+
+
+section {
+    margin: 30px 70px 50px 10px ;
+    /*podla hodinov7ch ruciciek. zhora , vpravo, dole, vlavo
+    */
+}
+
+.pruh {
+    background-color: yellow;
+    padding: 50px 15%;
 }
